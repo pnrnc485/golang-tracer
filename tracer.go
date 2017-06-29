@@ -28,6 +28,6 @@ type nilTracer struct {}
 func (t *nilTracer) Trace(a ...interface{} ) {}
 
 //offはTraceメソッドの呼び出しを無視するTracerを返します
-func off() Tracer {
+func Off() Tracer {
 	return &nilTracer{}
 }
