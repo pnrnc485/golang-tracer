@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;trace&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../myapp" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../bbs" />
+      <root url="file://$PROJECT_DIR$/../golang-chat" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../myapp" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../bbs" />
+      <root url="file://$PROJECT_DIR$/../golang-chat" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
